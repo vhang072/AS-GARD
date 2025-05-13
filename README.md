@@ -1,6 +1,7 @@
 # AS-GARD
 Allele-Specific Genome Architecture Reconstruction and Discovery. This tool is used to analysis allele-specific 3D genome structures and differences.
 ## Citation
+Xianglin Zhang Shandong University
 The paper has not been published. Once published, it will be updated immediately.
 ## Tool Design
 This tool consisted of two parts. 
