@@ -6,7 +6,7 @@ The paper has not been published. Once published, it will be updated immediately
 ## Tool Design
 This tool consisted of two parts. 
 - One is WASP-based mapping bias correction for 3D genome data, however, part of operations in [WASP](https://github.com/bmvdgeijn/WASP) have been modified to satisfy the 3D genome data format. 
-- The other is downstream --operations after WASP-based mapping bias correction, including counting 3D contacts associated with heterogeneous mutations and calculating the statistical significance of difference between alleles.
+- The other is downstream operations after WASP-based mapping bias correction, including counting 3D contacts associated with heterogeneous mutations and calculating the statistical significance of difference between alleles.
 ## Installation
 - Download [WASP](https://github.com/bmvdgeijn/WASP) and AS-GARD scripts, and add `snptablepro.py`,`filter_remapped_reads_pro.py`, `find_intersecting_snps_pro.py` to WASP where deposits `snptable.py`, `filter_remapped_reads.py`, `find_intersecting_snps.py` scripts.
 ## Usage
